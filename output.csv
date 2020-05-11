@@ -1,0 +1,81 @@
+,statement,Significant number 1 detected,Significant number 2 detected,equation generated,answer evaluated
+0,88 raise twice,88,2,x ^ y,7744
+1,add 4thrice and 11,43,11,x * y,473
+2,multiply thricethrice with 95,33,95,x * y,3135
+3,96 times 5,96,5,x * y,480
+4,increase 4thrice by 16,43,16,x * y,688
+5,reduce 95 by 96,95,96,x * y,9120
+6,58 times 89,58,89,x * y,5162
+7,subtract 7 from 86,7,86,x * y,602
+8,multiply twice9 with 41,29,41,x * y,1189
+9,75 raise thrice,75,3,x ^ y,421875
+10,add 54 and 86,54,86,x * y,4644
+11,49 raise thrice,49,3,x ^ y,117649
+12,add 46 and 79,46,79,x * y,3634
+13,subtract 5 from 70,5,70,x * y,350
+14,51 raise twice,51,2,x ^ y,2601
+15,twice9 raise thrice,29,3,x ^ y,24389
+16,thrice9 times 96,39,96,x * y,3744
+17,increase 9thrice by thrice7,93,37,x * y,3441
+18,multiply 55 with 56,55,56,x * y,3080
+19,8thrice times 8,83,8,x * y,664
+20,subtract 60 from 79,60,79,x * y,4740
+21,75 times 4thrice,75,43,x * y,3225
+22,75 times 1thrice,75,13,x * y,975
+23,increase 78 by thrice8,78,38,x * y,2964
+24,thrice8 times 5,38,5,x * y,190
+25,add twicetwice and 6twice,22,62,x * y,1364
+26,add 14 and 14,14,14,x * y,196
+27,68 raise thrice,68,3,x ^ y,314432
+28,7 raise twice,7,2,x ^ y,49
+29,multiply twicethrice with 70,23,70,x * y,1610
+30,add 78 and 17,78,17,x * y,1326
+31,76 times 5,76,5,x * y,380
+32,79 raise thrice,79,3,x ^ y,493039
+33,reduce thricethrice by 71,33,71,x * y,2343
+34,increase 98 by twice0,98,20,x * y,1960
+35,subtract 7twice from 55,72,55,x * y,3960
+36,reduce 5 by 59,5,59,x * y,295
+37,thrice7 raise twice,37,2,x ^ y,1369
+38,add thrice9 and twicethrice,39,23,x * y,897
+39,multiply 81 with 61,81,61,x * y,4941
+40,twicethrice raise thrice,23,3,x ^ y,12167
+41,reduce thrice5 by 87,35,87,x * y,3045
+42,add 81 and 59,81,59,x * y,4779
+43,increase 54 by twice4,54,24,x * y,1296
+44,increase thrice6 by 5twice,36,52,x * y,1872
+45,subtract 60 from 44,60,44,x * y,2640
+46,subtract 45 from twicethrice,45,23,x * y,1035
+47,46 raise thrice,46,3,x ^ y,97336
+48,reduce 75 by 47,75,47,x * y,3525
+49,twice8 raise twice,28,2,x ^ y,784
+50,multiply 10 with 75,10,75,x * y,750
+51,reduce 60 by 11,60,11,x * y,660
+52,add 8thrice and 4thrice,83,43,x * y,3569
+53,reduce 95 by 5twice,95,52,x * y,4940
+54,8twice raise twice,82,2,x ^ y,6724
+55,increase 56 by thricetwice,56,32,x * y,1792
+56,multiply 75 with 14,75,14,x * y,1050
+57,add 55 and 88,55,88,x * y,4840
+58,thrice1 raise thrice,31,3,x ^ y,29791
+59,subtract 40 from thrice4,40,34,x * y,1360
+60,multiply twice4 with thrice4,24,34,x * y,816
+61,46 times 17,46,17,x * y,782
+62,subtract thricethrice from 95,33,95,x * y,3135
+63,twicethrice raise twice,23,2,x ^ y,529
+64,15 raise twice,15,2,x ^ y,225
+65,thrice6 raise thrice,36,3,x ^ y,46656
+66,increase 6twice by 58,62,58,x * y,3596
+67,subtract 78 from 80,78,80,x * y,6240
+68,twice6 raise twice,26,2,x ^ y,676
+69,multiply 46 with thrice5,46,35,x * y,1610
+70,5twice raise thrice,52,3,x ^ y,140608
+71,99 raise twice,99,2,x ^ y,9801
+72,reduce 67 by 65,67,65,x * y,4355
+73,increase 90 by 4twice,90,42,x * y,3780
+74,reduce 76 by 78,76,78,x * y,5928
+75,thrice7 times thrice,37,3,x * y,111
+76,subtract 59 from 8,59,8,x * y,472
+77,increase 67 by 1thrice,67,13,x * y,871
+78,multiply 98 with 81,98,81,x * y,7938
+79,reduce twicetwice by thrice1,22,31,x * y,682
